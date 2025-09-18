@@ -1,0 +1,10 @@
+{
+  "name": "remote-agent-cli",
+  "version": "0.1.0",
+  "description": "Standalone CLI that processes VS Code remote agent job requests",
+  "type": "module",
+  "bin": {
+    "remote-agent-cli": "./remote-agent-cli.js"
+  },
+  "dependencies": {}
+}
